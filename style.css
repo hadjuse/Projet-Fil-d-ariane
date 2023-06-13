@@ -1,0 +1,10 @@
+#container{
+    background-color: rgb(151, 238, 64);
+    margin-left: 20vw; 
+    margin-right: 20vw;
+}
+img{
+    display: block;
+   margin-left: auto;
+   margin-right: auto; 
+}
