@@ -6,10 +6,11 @@ img{
 }
 #container{
     margin-top: 10vw;
-    background-color: rgb(35, 114, 231);
+    background-color: #2788ff;
     margin-left: 18vw; 
     margin-right: 18vw;
     padding: 1vw;
+    border-radius: 30px;
 }
 #logo{
    margin-top: -9vw;
@@ -23,6 +24,9 @@ img{
 h1{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    color: #152665;
+    background-color: #95acff;
+    border-radius: 30px;
 }
 audio{
     margin-left: 20vw;
